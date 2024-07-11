@@ -1,7 +1,7 @@
 {
   "name": "Raubritter",
-  "description": "Die Raubritter KI aus Crusader Pilaws 'Legenden des Orients' Paketes.",
-  "author": "Crusader Pilaw",
+  "description": "Die Raubritter KI aus Crusader Pilaws 'Legenden des Orients' Paketes. Angepasst an Rebalance aus dem die KI Turnier 2022.",
+  "author": "Roaring Goose",
   "link": "https://github.com/CrusaderPilaw/Legends-Of-The-Orient",
   "version": "3.0.0",
   "defaultLang": "de",

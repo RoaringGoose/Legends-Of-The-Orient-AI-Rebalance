@@ -1,9 +1,7 @@
-name: Legends-Of-The-Orient-AI
-display-name: Legends Of The Orient AI
-author: Crusader Pilaw
-version: 3.0.0
+name: Legends-Of-The-Orient-AI-Rebalance
+display-name: "Rebalance of Pilaw's Legends-Of-The-Orient AIs"
+author: Roaring Goose
+version: 1.0.0
 dependencies:
-  framework: ">=3.0.1"
+  framework: ">=3.0.2"
   frontend: ">=1.0.2"
-  aiSwapper: ^1.1.0
-type: plugin
